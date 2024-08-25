@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ferramenta de codificação e decodificação de texto">
+    <title>Decodificador</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <header class="container-cabecalho">
+        <nav class="logos-cabecalho">
+            <ul class="links">
+                <li class="nav_link">
+                    <a class="nav_site_alura" target="_blank" href="https://alura.com.br">
+                        <img src="./assets/alura.png" alt="Logo Alura">
+                    </a>
+                </li>
+                <li class="nav_links">
+                    <a class="Link" target="_blank" href="https://oracle.com/br/education/oracle-next-education/">
+                        <img src="./assets/oracle.png" alt="Logo Oracle">
+                    </a>
+                </li>     
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-container">
+        <div class="apresentacao">
+            <img src="./assets/apresentacao.png" alt="Apresentacao">
+        </div>
+    
+        <div class="conteudo-texto">
+            <section class="container-titulo-1">
+                <h1>Digite o texto</h1>
+            </section>
+    
+            <section class="container-inputs">
+                <div class="container-input-texto1">
+                    <textarea class="input-texto-secao1" cols="50" rows="10" placeholder="Digite seu texto..."></textarea>
+                    <div class="botoes-codificar-decodificar">
+                        <button class="btn" onclick="botaoCodificar()">Codificar</button>
+                        <button class="btn" onclick="botaoDecodificar()">Decodificar</button>
+                    </div>
+                </div>
+    
+                <div class="container-input-texto2">
+                    <textarea class="input-texto-secao2" placeholder="Sua mensagem aparecerá aqui!" cols="50" rows="10"></textarea>
+                    <button class="btn-copiar" onclick="copiar()">Copiar</button>
+                </div>
+            </section>
+
+            <section>
+                <div class="informacao">
+                    <h6 class="informacao">Inserir apenas letras <span>minúsculas</span> e <span>sem acento</span>!</span></h6>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <footer class="rodape-main">
+        <nav class="rodape-icones">
+            <h3>Desenvolvido por 
+                <a target="_blank" href="linkedin.com/in/jessicarraissa/"> <span> Jéssica Raíssa </span></a>
+                para o programa <span>One - Oracle Next Education</span> em parceria com <span>Alura.</span></h3>
+        </nav>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
