@@ -1,13 +1,15 @@
 ## Projeto de Decodificador de textos
 Esse é um projeto de conclusão da Formação Iniciante em Programação da turma 7 do ONE - Oracle Next Education em parceria com Alura.
 
-![Front-end-Decodificador de textos](https://github.com/user-attachments/assets/cf288be0-3e5e-4962-bb59-31e52ab1b5ad)
+![Front-end-Decodificador de textos](https://github.com/user-attachments/assets/c9d3b7e0-c551-47e3-a1a0-66a0f6397d9a)
+
 
 ## Decodificador
 O desafio do projeto foi a proposta de criar uma aplicação com a finalidade de criptografar e descriptografar textos e mensagens inseridas pelos usuários. 
 O objetivo deste desafio foi colocar em prática o conteúdo e os conceitos básicos de fornt-end desenvolvidos e aprimorados ao longo dos cursos de lógica de programação, HTML, CSS e Javascript.    
   
-![CodificadorJessica](https://github.com/user-attachments/assets/9aed9dd8-f99b-4833-b168-7c992bf3787f)
+![DecodificadorJessica](https://github.com/user-attachments/assets/bee63023-73e8-4aa7-bcdf-2b49a8ce6eb0)
+
 
 ## 🔨 Funcionalidades do projeto
 -`Criptografia:` As "chaves" de criptografia que são: A letra "e" é convertida para "enter", a letra "i" é convertida para "imes", a letra "a" é convertida para "ai", a letra "o" é convertida para "ober" e letra "u" é convertida para "ufat".
