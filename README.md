@@ -5,8 +5,8 @@ Esse é um projeto de conclusão da Formação Iniciante em Programação da tur
 
 
 ## Decodificador
-A proposta do desafio era criar uma aplicação com a finalidade de criptografar e descriptografar textos e mensagens inseridas pelos usuários. 
-O desafio teve por objetivo colocar em prática o conteúdo e os conceitos básicos de fornt-end desenvolvidos e aprimorados ao longo dos cursos de **Lógica de programação**, **HTML**, **CSS** e **Javascript**.    
+A proposta do desafio era criar uma aplicação com a finalidade de criptografar e decriptografar textos e mensagens inseridas pelos usuários.   
+O desafio teve por objetivo colocar em prática o conteúdo e os conceitos básicos de front-end desenvolvidos e aprimorados ao longo dos cursos de **Lógica de programação**, **HTML**, **CSS** e **Javascript**.    
   
 ![DecodificadorJessica](https://github.com/user-attachments/assets/bee63023-73e8-4aa7-bcdf-2b49a8ce6eb0)
 
