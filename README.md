@@ -34,7 +34,7 @@ https://decodificador-umber-five.vercel.app/
 ```
 
 ## 📚 Conheça o Programa ONE
-Para quem tem vontade de aprender e pressa para trabalhar.
+Para quem tem vontade de aprender e pressa para trabalhar.  
 O ONE é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
 
 ```bash
